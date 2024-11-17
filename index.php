@@ -21,8 +21,15 @@
                     <div>
                         <table class="table_line">
                             <tr>
-                                <th>1일차</th>
-                                <td><a href="day-1/today.php">년도 확인하기</a></td>
+                                <div>
+                                    <th>1일차</th>
+                                    <td><a href="day-1/today.php">년도 확인하기</a></td>
+                                </div>
+
+                                <div>
+                                    <th>2일차</th>
+                                    <td><a href="day-2/syntax.php">기본 문법</a></td>
+                                </div>
                             </tr>
                         </table>
                     </div>
