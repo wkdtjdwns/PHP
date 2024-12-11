@@ -37,6 +37,7 @@
             <div>
                 <td><a href="./variableTest.php">1. 변수</a></td>
                 <td><a href="./local_global.php">2. 지역-전역 변수</a></td>
+                <td><a href="./const.php">3. 상수</a></td>
             </div>
         </tr>
     </table>
