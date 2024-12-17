@@ -9,11 +9,12 @@
     <?php
         for ($i = 1; $i <= 10; $i++)
         {
-            echo "{$i}<br>";
             if ($i === 5)
             {
                 continue;
             }
+
+            echo "{$i}<br>";
         }
     ?>
 
@@ -22,11 +23,12 @@
 
         for ($i = 1; $i <= 10; $i++)<br>
         {<br>
-            echo "{$i}&lt;br&gt;";<br>
             if ($i === 5)<br>
             {<br>
                 continue;<br>
-            }<br>
+            }<br><br>
+
+            echo "{$i}&lt;br&gt;";<br>
         }
 </body>
 </html>
