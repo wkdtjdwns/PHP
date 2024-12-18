@@ -30,18 +30,40 @@
                                     <th>2일차</th>
                                     <td><a href="day-2/syntax.php">기본 문법</a></td>
                                 </div>
+
+                                <div>
+                                    <th>3일차</th>
+                                    <td><a href="day-3/dataType.php">데이터 타입</a></td>
+                                </div>
+
+                                <div>
+                                    <th>4일차</th>
+                                    <td><a href="day-4/variable.php">변수</a></td>
+                                </div>
+
+                                <div>
+                                    <th>5일차</th>
+                                    <td><a href="day-5/operator.php">연산자</a></td>
+                                </div>
                             </tr>
                         </table>
                     </div>
 
-                    <!-- <div>
+                    <div>
                         <table class="table_line">
                             <tr>
-                                <th>1일차</th>
-                                <td><a href="">년도 확인하기</a></td>
+                                <div>
+                                    <th>6일차</th>
+                                    <td><a href="day-6/control.php">제어문</a></td>
+                                </div>
+
+                                <div>
+                                    <th>7일차</th>
+                                    <td><a href="day-7/FCO.php">함수, 클래스, 객체</a></td>
+                                </div>
                             </tr>
                         </table>
-                    </div> -->
+                    </div>
                 </div>
             </div>
         </section>
