@@ -36,8 +36,8 @@
         <tr>
             <div>
                 <td><a href="./extend.php">1. 상속</a></td>
-                <td><a href="./construct.php">2. 생성자</a></td>
-                <td><a href="./object.php">3. 객체</a></td>
+                <td><a href="./member_field.php">2. 멤버변수</a></td>
+                <td><a href="./access_modifier.php">3. 접근 제어자</a></td>
             </div>
         </tr>
     </table>
