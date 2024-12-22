@@ -37,7 +37,7 @@
             <div>
                 <td><a href="./private.php">1. private</a></td>
                 <td><a href="./protected.php">2. protected</a></td>
-                <td><a href="./access_modifier.php">3. 접근 제어자</a></td>
+                <td><a href="./public.php">3. public</a></td>
             </div>
         </tr>
     </table>
