@@ -59,7 +59,17 @@
 
                                 <div>
                                     <th>7일차</th>
-                                    <td><a href="day-7/FCO.php">함수, 클래스, 객체</a></td>
+                                    <td><a href="day-7/FCO.php">함수, 클래스</a></td>
+                                </div>
+
+                                <div>
+                                    <th>8일차</th>
+                                    <td><a href="day-8/static_final.php">static, final</a></td>
+                                </div>
+
+                                <div>
+                                    <th>9일차</th>
+                                    <td><a href="day-9/namespace.php">namespace</a></td>
                                 </div>
                             </tr>
                         </table>
